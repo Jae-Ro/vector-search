@@ -1,0 +1,1 @@
+# Where checkpoints can be stored
