@@ -9,3 +9,15 @@ Please select and complete one of the following case studies. We are looking for
 BACKGROUND: A geology research company wants to create a tool for identifying interesting patterns in their imagery data. This tool will possess a search capability whereby an analyst provides an image of interest and is presented with other images which are similar to it. 
 GOAL: Your task is to create the machine learning component for this image similarity application. The machine learning model should return the top K images that are most similar to this image based on a single image input. Please send a document displaying your code and thought process to your recruiter at least 24 hours prior to your interview. 
 DATA Link
+
+
+T-SNE on Test set with no embedding
+T-SNE on Test set using feature embedding from fine tuned resnet50
+T-SNE on Test set using feature embedding from trained UNET
+
+
+- pandas
+- torch
+- torchvision
+- matplotlib
+- torch-summary

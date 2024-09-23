@@ -6,9 +6,11 @@
 __pycache__
 .ipynb_checkpoints
 
-data/geological_similarity/
+data/geological_similarity*/
 !data/train_val_test_splits/*
 
 saved_models/*
-!saved_models/checkpoint_srgan.pth.tar
+!saved_models/checkpoint_srgan.pth.
+!saved_models/resnet50_ft-original.pth
+!saved_models/resnet50_ft-super.pth
 !saved_models/README.md
