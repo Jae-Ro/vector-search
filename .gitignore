@@ -11,6 +11,7 @@ data/geological_similarity*/
 
 saved_models/*
 !saved_models/checkpoint_srgan.pth.
-!saved_models/resnet50_ft-original.pth
-!saved_models/resnet50_ft-super.pth
+!saved_models/resnet18-original.pth
+!saved_models/resnet18_ft-original.pth
+!saved_models/resnet18-super.pth
 !saved_models/README.md
